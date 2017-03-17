@@ -3,5 +3,6 @@ first:
 	if the r_server des not exits,run the make command
 second:
 	open the brower,enter the add and port
+	123.207.88.158:10001
 and then:
 	enter the num for test
